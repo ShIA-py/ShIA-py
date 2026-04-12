@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://i.imgur.com/JZ9a7h6.gif" width="100"/>
+  <img src="https://media1.tenor.com/m/x_05qfCGVgsAAAAd/hans-landa.gif" width="100"/>
 </div>
