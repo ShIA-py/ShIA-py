@@ -21,3 +21,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,rust,git,linux,postgres,mysql,docker" />
 </p>
+
+### 🔲 My Stats 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShIA-py&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShIA-py)](https://github.com/anuraghazra/github-readme-stats)
