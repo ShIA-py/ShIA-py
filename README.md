@@ -19,7 +19,7 @@
 
 ### 🛠 Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,rust,git,linux,flask,django,postgres,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=py,rust,git,linux,flask,django,postgres,mysql,docker,redis,rabbitmq,kafka" />
 </p>
 
 ### 🔲 My Stats 
